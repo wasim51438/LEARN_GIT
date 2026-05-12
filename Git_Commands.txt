@@ -1,0 +1,5 @@
+git init -> to initialize the repository (.git) --> It creates locally Git
+public --> git clone https://github.com/account/repo........ --> for public but for ptivate we need to setup PAT (private access tokens)
+private --> git clone https://token@github.com/account/repo... 
+git log --> list of all the commits
+
