@@ -8,8 +8,8 @@ public static void main(String[] args) {
 	int n = ch.length;
 	int start = (n)/2;
 	String newStr="";
-	for(int i=1; i<=ch.length;i++){
-		for(int j=1;j<=(n-i);j++){
+	for(int k=1; k<=ch.length;k++){
+		for(int j=1;j<=(n-k);j++){
 			System.out.print(" ");
 		}
 			if(start>=n){
